@@ -1,2 +1,5 @@
 -for smartphone screens the menu hides very weirdly it wraps to the top then right in a strange way, investigate
 -the small portrait image is for the small screen or smart phone view port size, make sure to change this in te mobile.scss file 
+-when adding or removing pages, in the html make sure to change the (current) property in the nav bar area to the page its currently on. also the (main id) to change to the name of the page aswell
+-also change h1 class="lg-heading"> accordingly per page added or changed
+-
