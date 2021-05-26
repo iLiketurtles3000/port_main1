@@ -90,6 +90,15 @@
 .nav-item:nth-child(4) {
   transition-delay: 0.4s; }
 
+.line_box {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.box img {
+  width: 410px;
+  height: 410px; }
+
 * {
   box-sizing: border-box; }
 
