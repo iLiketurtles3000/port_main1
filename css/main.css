@@ -93,11 +93,12 @@
 .line_box {
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  padding-top: 10vh; }
 
-.box img {
-  width: 410px;
-  height: 410px; }
+.line_box img {
+  min-width: 410px;
+  min-height: 410px; }
 
 * {
   box-sizing: border-box; }
